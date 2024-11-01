@@ -1,5 +1,5 @@
 // 创建于2024.11.1 
-// StarsailerOS X86 Boot MultiBoot文件
+// StarsailerOS X86 Boot MultiBoot头文件
 // 代码遵循GNU GPLV2发布
 
 #ifndef StarsailerOS_MultiBoot_H
