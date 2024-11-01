@@ -1,5 +1,6 @@
 # 创建于2024.11.1 
 # StarsailerOS CmakeLists文件
+# 代码遵循GNU GPLV2发布
 # 执行Cmake -B Build编译
 
 cmake_minimum_required(VERSION 3.25)
@@ -13,3 +14,4 @@ enable_language(ASM)
 include_directories(Includes)
 
 set(StarsailerOSVersion Aphla 0.1)
+
