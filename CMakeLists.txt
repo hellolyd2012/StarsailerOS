@@ -12,5 +12,7 @@ enable_language(ASM)
 
 include_directories(${CMAKE_SOURCE_DIR}/Includes)
 
+message("开始编译${PROJECT_NAME}")
+
 add_subdirectory(Boot) # 编译Boot
 
